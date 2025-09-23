@@ -33,7 +33,7 @@ while (true) {
             }
         }
             
-    $pointsObtained = $pointsObtained + $gamespoints; 
+    $pointsObtained = $pointsObtained + ($gamespoints * 10); 
     $ask = readline("vai vēlis doties? --> ");
 
     switch ($ask) {
