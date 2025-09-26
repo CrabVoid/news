@@ -1,0 +1,35 @@
+**Kopsavilkums:**
+
+1. **Mainīgo nosaukumi un kodēšanas stils**:
+
+   * Izmantojiet skaidrus un konsekventus mainīgo nosaukumus, lai uzlabotu koda lasāmību.
+
+2. **Izvairīšanās no "while (true)" cikliem**:
+
+   * Lietojiet nosacījumus, lai izvairītos no bezgalīgiem cikliem un nodrošinātu vieglu spēles pārvaldību.
+
+3. **Valodas ievadīšana un lokalizācija**:
+
+   * Ja vēlaties atbalstīt vairākas valodas, izmantojiet mainīgos un valodas izvēli, lai padarītu spēli pieejamāku dažādām auditorijām.
+
+4. **Ievades validācija**:
+
+   * Pārliecinieties, ka lietotāja ievade ir derīga (piemēram, skaitļi no 1 līdz 100), lai izvairītos no kļūdām.
+
+5. **Pārāk daudz "echo" komandu**:
+
+   * Organizējiet kodu ar funkcijām, lai izvairītos no pārmērīga "echo" lietojuma un uzlabotu koda uzturēšanu.
+
+6. **Iespējamās kļūdas un izņēmumi**:
+
+   * Iekļaujiet kļūdu apstrādi, lai spēle darbotos arī tad, ja rodas problēmas (piemēram, ievades kļūdas).
+
+7. **Koda pārstrukturēšana ar funkcijām**:
+
+   * Sadali kodu vairākās funkcijās, lai tas būtu pārskatāmāks un vieglāk uzturams.
+
+8. **Labās prakses spēles dizainā**:
+
+   * Padomājiet par spēles plūsmu, grūtības līmeņiem un atsauksmēm spēlētājam, lai uzlabotu lietotāja pieredzi.
+
+Izmantojot šos ieteikumus, jūs varat uzlabot savu spēles kodu, padarīt to efektīvāku un lietotājam draudzīgāku.
